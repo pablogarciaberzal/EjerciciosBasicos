@@ -17,7 +17,7 @@ public class Ejerciciosbasicosjava {
         }
         return false;
     }
-    public 
+    public int multa(int)
     /**
      * @param args the command line arguments
      */

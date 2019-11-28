@@ -17,6 +17,7 @@ public class Ejerciciosbasicosjava {
         }
         return false;
     }
+    public 
     /**
      * @param args the command line arguments
      */

@@ -29,3 +29,9 @@ public class Ejerciciosbasicosjava {
         
     
 }
+public boolean muyVanidoso(int numero){
+    if (numero)% 11 ==numero % 11 ==1){
+    return true;
+}
+    return false;
+}
